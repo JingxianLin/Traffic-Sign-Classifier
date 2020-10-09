@@ -1,0 +1,1 @@
+The German Traffic Sign Dataset can be downloaded from here: http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
